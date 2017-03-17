@@ -1,0 +1,4 @@
+*.o
+*.d
+*_test
+tpcc
